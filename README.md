@@ -20,7 +20,7 @@ are performed on a subset of the Aff-Wild2 in-thewild
 dataset as well as the results of these techniques are
 summarized.
 
-In Paper II, I propose two machine
+In the Paper II, I propose two machine
 learning models, Main and Baseline, for the purpose of
 multi-class classification of six basic human expressions.
 The results obtained from these models are discussed and
