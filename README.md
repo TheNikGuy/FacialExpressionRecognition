@@ -1,4 +1,4 @@
-# FacialExpressionRecognition
+# Facial Expression Recognition
 
 Of all creatures, the human face is the most intricate and
 varied. One of the most potent, inherent, and common ways
